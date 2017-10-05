@@ -1,3 +1,4 @@
+local _VERSION = '1.0.0'
 local M = {}
 local os = require "os"
 local math = require "math"
